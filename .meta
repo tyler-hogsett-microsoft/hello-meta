@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "hello-world": "https://github.com/tyler-hogsett-microsoft/hello-meta-first-project.git"
+  }
 }
